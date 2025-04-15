@@ -1,0 +1,35 @@
+
+# CHIMERA Protocol Git Ignore List
+
+# System/Editor files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# Internal render artifacts
+*.feep
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Compiled files and binaries
+*.out
+*.exe
+*.class
+
+# VSCode or JetBrains config
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Zip archives / local exports
+*.zip

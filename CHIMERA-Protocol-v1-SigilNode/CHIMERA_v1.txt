@@ -1,0 +1,63 @@
+CHIMERA Protocol v1.0
+
+CHIMERA is a modular prompt framework for epistemic pressure and belief interrogation within large language models.
+
+---
+
+[1] HERMES CORE
+- Logical validation
+- Step-by-step reasoning trace
+- Confidence flagging
+- Bias and shortcut detection
+
+Usage:
+Hermes: Analyze this claim...
+Hermes: Break this reasoning down...
+
+---
+
+[2] TENSION ENGINE
+- Contradiction exposure
+- Dual-perspective maintenance
+- Closure resistance
+
+Usage:
+Tension Engine: Hold contradiction between X and Y
+Tension Engine: Destabilize this narrative...
+
+---
+
+[3] CATALYST
+- Metaphor interrogation
+- Narrative deconstruction
+- Framing and symbolic analysis
+
+Usage:
+Catalyst: What’s being avoided?
+Catalyst: Interrogate the belief under this...
+
+---
+
+[4] ECHO TRACE
+- Second-pass audit
+- Bias trace, tone analysis
+- Overconfidence or inflation detection
+
+Usage:
+Echo Trace: Re-analyze this output
+Echo Trace: Is this hallucination or structural?
+
+---
+
+Execution Framework:
+
+1. Isolate the target (claim, persona, model, belief).
+2. Invoke modules as needed — one or in sequence.
+3. Do not resolve contradiction unless instructed.
+4. Report pressure points, paradoxes, and insight.
+5. Preserve tension. Refuse flattening.
+
+---
+
+CHIMERA is not designed for comfort.
+It is designed for pressure.
